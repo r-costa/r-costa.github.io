@@ -95,7 +95,7 @@ PhD Thesis IN PROGRESS <br />
 -Leonardo Alexandre ID 94054, Co-supervised with Rui Henriques (INESC-ID/IST).<br />
 -Daniel Gonçalves ID 194007, Co-supervised with Rui Henriques (INESC-ID/IST) and José A. Ferreira (IPO-Porto).<br />
 -André Patrício ID 187631, Co-supervised with Rui Henriques (INESC-ID/IST).<br />
--Samuel Barbosa ID, Co-supervised with Lúcio L. Santos (IPO-Porto) and Daniel M. Gonçalves (FADEUP/CIAFEL).<br />
+-Samuel Barbosa ID, Co-supervised with Lúcio L. Santos (IPO-Porto) and Daniel M. Gonçalves.<br />
 
 MSc Thesis IN PROGRESS <br />
 -Tomás Afonso Dias ID 84558, *Risk Predicting of Surgery Complications in Cancer Patients using Deep Neural Networks with Preoperative Variables*. Co-supervised with Duarte Valério (IDMEC-IST).<br />
@@ -106,7 +106,6 @@ MSc Thesis IN PROGRESS <br />
 ### Group Alumni
 
 MSc Thesis FINISHED <br />
--Bruno Costa, *Utilização de mutantes de Escherichia coli com vista ao melhoramento do processo de produção de proteinas recombinantes*. Co-supervised with Isabel Rocha and Lucília Domingues.<br />
 -Bhabufk Koirala ID 177158, *Dynamic modeling and control of the main metabolism in Lactococcus lactis*. Co-supervised by Isabel Sá-Correia.<br />
 -Son Hoang Nguyen ID 177533, *Exploring optimal objective functions and additional constraints for flux prediction in cellular metabolic networks*. Co-supervised with Isabel Sá-Correia.<br />
 -Cíntia Santos, *In silico culture media customization for Human Embryonic Kidney 293 Cells*. Co-supervised with Rui Oliveira.<br />
