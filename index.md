@@ -100,7 +100,7 @@ PhD Thesis IN PROGRESS <br />
 MSc Thesis IN PROGRESS <br />
 -Tomás Afonso Dias ID 84558, *Risk Predicting of Surgery Complications in Cancer Patients using Deep Neural Networks with Preoperative Variables*. Co-supervised with Duarte Valério (IDMEC-IST).<br />
 -André Matos ID 55358,  *Desenvolvimento de uma base dados da estrutura espacial em Biofilmes*. Co-supervised with Pedro Barahona (FCT-NOVA) and Nuno Azevedo (LEPABE-FEUP).<br />
--José Pedreira ID 61835 , *HYBpy: a Python tool for hybrid modeling of bioprocesses*. Co-supervised with Pedro Barahona (FCT-NOVA) and Rui Oiveira (FCT-NOVA).<br />
+-José Pedreira ID 61835 , *HYBpy: a Python tool for hybrid modeling of bioprocesses*. Co-supervised with Pedro Barahona (FCT-NOVA) and Rui Oliveira (FCT-NOVA).<br />
 -Marta Sousa ID 93303 , *Voice disease diagnostic via machine learning*. Co-supervised with Duarte Valério (IDMEC-IST).<br />
 
 ### Group Alumni
@@ -126,7 +126,7 @@ Post-doctoral <br />
                                                                                                                                                     
 ---
 
-  &copy; R Costa 2023
+  &copy; R Costa 2024
   
 
 ![](logos/logo_new.png)
