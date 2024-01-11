@@ -86,7 +86,7 @@ We are working on computational solutions to address biotechnological, (bio)chem
 
 ► *[SBML2HYB](https://figshare.com/articles/software/sbml2hyb_a_Python_interface_for_SBML_compatible_hybrid_modelling/21803316?file=38688132)*, a Python tool for SBML compatible hybrid modelling of biological systems. Two case studies illustrate the use of SBML2HYB: [threonine synthesis pathway](https://www.ebi.ac.uk/biomodels/BIOMD0000000066) model and  [Park and Ramirez](https://github.com/r-costa/sbml2hyb/blob/main/models/parkramstandard.xml) model.
 
-► *[TriSig](https://github.com/JupitersMight/TriSig)*, a method designed to evaluate the statistical significance of patterns in tensor data. To demonstrate the properties of *TriSig*, a industrial [penicillin batches dataset](http://www.industrialpenicillinsimulation.com/index.html) and a [metabolomics dataset](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0167309) from urinary samples analyzed by NMR spectroscop are used.
+► *[TriSig](https://github.com/JupitersMight/TriSig)*, a method designed to evaluate the statistical significance of patterns in tensor data. To demonstrate the properties of *TriSig*, a industrial [penicillin batches dataset](https://www.sciencedirect.com/science/article/pii/S0098135418305106) and a [metabolomics dataset](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0167309) from urinary samples analyzed by NMR spectroscop are used.
 
 
 ### Group Members
