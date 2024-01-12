@@ -101,28 +101,7 @@ MSc Thesis IN PROGRESS <br />
 -Tomás Afonso Dias ID 84558, *Risk Predicting of Surgery Complications in Cancer Patients using Deep Neural Networks with Preoperative Variables*. Co-supervised with Duarte Valério (IDMEC-IST).<br />
 -André Matos ID 55358,  *Desenvolvimento de uma base dados da estrutura espacial em Biofilmes*. Co-supervised with Pedro Barahona (FCT-NOVA) and Nuno Azevedo (LEPABE-FEUP).<br />
 -José Pedreira ID 61835 , *HYBpy: a Python tool for hybrid modeling of bioprocesses*. Co-supervised with Pedro Barahona (FCT-NOVA) and Rui Oliveira (FCT-NOVA).<br />
--Marta Sousa ID 93303 , *Voice disease diagnostic via machine learning*. Co-supervised with Duarte Valério (IDMEC-IST).<br />
-
-### Group Alumni
-
-MSc Thesis FINISHED <br />
--Bhabufk Koirala ID 177158, *Dynamic modeling and control of the main metabolism in Lactococcus lactis*. Co-supervised by Isabel Sá-Correia.<br />
--Son Hoang Nguyen ID 177533, *Exploring optimal objective functions and additional constraints for flux prediction in cellular metabolic networks*. Co-supervised with Isabel Sá-Correia.<br />
--Cíntia Santos, *In silico culture media customization for Human Embryonic Kidney 293 Cells*. Co-supervised with Rui Oliveira.<br />
--Dinis Madeira, *Development of a toolbox for in silico experiment free culture media design based on prior metabolic knowledge*. Co-supervised with Rui Oliveira.<br />
--Daniel Gonçalves ID 94007, *Clinical Prognosis and Risk Prediction of Postoperative Complications in Cancer Patients*. Co-supervised with Rui Henriques (INESC-ID/IST).<br />
--Leonardo Alexandre ID 94054, *Discovery of discriminative patterns in oncological data to better understand surgical risk factors*. Co-supervised with Rui Henriques (INESC-ID/IST).<br />
--Hugo Mochão ID 47231, *Improvement of KiMoSys framework for kinetic modeling*. Co-supervised with Pedro Barahona.<br />
--André Miranda ID 84205, *Fuzzy logic-based modeling for Postoperative Complications Prediction in oncology patients: a Portuguese case study*. Co-supervised with Duarte Valério.<br />
--André Patrício ID 87631, *Differential regulatory response of Hodgkin’s lymphoma according to PET result*. Co-supervised by Rui Henriques.<br />
--Pedro Rodrigues ID 87696, *Regulatory response to infection by SARS-CoV-2*. Co-supervised by Rui Henriques.<br />
--Joao Martins ID 44644, *Development of a collaborative web platform for oncologists in Portugal*. Co-supervised with Pedro Barahona.<br />
--Lourenço Côrte Vieira ID 90307, *On The Possibilities of Fractional Differential Modeling of A Cancer Model*. Co-supervised with Duarte Valério.<br />
--Alexandre Freira ID 90209,  *Frailty conditions prediction in a Portuguese cohort study*. Co-supervised with Duarte Valério.<br />
-
-Post-doctoral <br />
--Juliana Rezende (visiting researcher), *Genomic scale metabolic network reconstruction and improvement of polyhydroxyalkanoates production in Pseudomonas SP. (LFM046)*. Supervisor:  R Costa.<br />
-                                                                                                                                                                                                                                        
+-Marta Sousa ID 93303 , *Voice disease diagnostic via machine learning*. Co-supervised with Duarte Valério (IDMEC-IST).<br />                                                                                                                                                                                                                                      
                                                                                                                                                     
 ---
 
