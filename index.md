@@ -74,9 +74,9 @@ We are working on computational solutions to address biotechnological, (bio)chem
 
 ► *[DISA](https://github.com/JupitersMight/DISA)*, a software package in Python capable of assessing patterns with numerical outputs by statistically testing the correlation gain of the subspace against the overall space. To illustrate the DISA properties, a dataset that monitors the concentration of key enzymes observed in two Design-Build-Test-Learn (DBTL) cycles of [1-dodecanol production](https://pubs.acs.org/doi/pdf/10.1021/acssynbio.9b00020) in *E. coli* is presented.
 
-► *score4Covid*. A clinical decision support system for Covid-19 to anticipate medical needs and infection outcomes using demographic and comorbidity variables, as well as onset date of symptoms, test and hospitalization. Available at [COVID-19 application](https://github.com/Andrempp/COVID_Calculator)
+► *[score4Covid](https://github.com/Andrempp/COVID_Calculator)*, a clinical decision support system for Covid-19 to anticipate medical needs and infection outcomes using demographic and comorbidity variables, as well as onset date of symptoms, test and hospitalization.
 
-► *[DI2 tool](https://github.com/JupitersMight/DI2)*. A python package that uses non-parametric tests to find the best fitting distribution for a given variable and discretize it accordingly. To illustrate the DI2 tool properties two case studies were analyzed including a [yeast experimental dataset](https://archive.ics.uci.edu/dataset/110/yeast).
+► *[DI2 tool](https://github.com/JupitersMight/DI2)*, a python package that uses non-parametric tests to find the best fitting distribution for a given variable and discretize it accordingly. To illustrate the DI2 tool properties two case studies were analyzed including a [yeast experimental dataset](https://archive.ics.uci.edu/dataset/110/yeast).
 
 ► *KiMoSys* database. An experimental data repository for Kinetic Models of biological SYStems. Available at [kimosys.org](http://www.kimosys.org) 
 
