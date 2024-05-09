@@ -1,7 +1,7 @@
 
 # R Costa
 
-[LAQV](https://laqv.requimte.pt/), DQ, [Faculty of Science and Technology](https://www.fct.unl.pt/pt-pt), NOVA University Lisbon
+[LAQV-REQUIMTE](https://laqv.requimte.pt/), DQ, [Faculty of Science and Technology](https://www.fct.unl.pt/pt-pt), NOVA University Lisbon
  
 
 **Short Bio:** Rafael Costa is currently an Assistant Professor at NOVA-FCT and Researcher at LAQV. His research focuses on systems biology modeling and data science with application in biotechnology, (bio)processes and healthcare.
