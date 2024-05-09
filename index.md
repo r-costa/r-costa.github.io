@@ -1,13 +1,10 @@
 
 # R Costa
 
-LAQV, DQ,
-[Faculty of Science and Technology](https://www.fct.unl.pt/pt-pt), NOVA University Lisbon
+[LAQV](https://laqv.requimte.pt/), DQ, [Faculty of Science and Technology](https://www.fct.unl.pt/pt-pt), NOVA University Lisbon
+ 
 
-
-*e-mail:*  rs [dot] costa [at] fct [dot] unl [dot] pt  
-
-**Short Bio:** R. Costa is currently an assistant researcher at FCT-NOVA. He is also an invited assistant professor. His research focuses on systems biology modeling and data science with application in biotechnology, (bio)processes and healthcare.
+**Short Bio:** Rafael Costa is currently an Assistant Professor at NOVA-FCT and Researcher at LAQV. His research focuses on systems biology modeling and data science with application in biotechnology, (bio)processes and healthcare.
 
 ### Research Interests
 
@@ -96,6 +93,7 @@ PhD Thesis IN PROGRESS <br />
 -Daniel Gonçalves ID 194007, Co-supervised with Rui Henriques (INESC-ID/IST) and José A. Ferreira (IPO-Porto).<br />
 -André Patrício ID 187631, Co-supervised with Rui Henriques (INESC-ID/IST).<br />
 -Samuel Barbosa ID, Co-supervised with Lúcio L. Santos (IPO-Porto) and Daniel M. Gonçalves.<br />
+-Monesh Thirugnanasambandam ID, Co-supervised with Rui Oliveira (NOVA-FCT)<br />
 
 MSc Thesis IN PROGRESS <br />
 -Tomás Afonso Dias ID 84558, *Risk Predicting of Surgery Complications in Cancer Patients using Deep Neural Networks with Preoperative Variables*. Co-supervised with Duarte Valério (IDMEC-IST).<br />
