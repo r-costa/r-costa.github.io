@@ -103,9 +103,10 @@ MSc Thesis IN PROGRESS <br />
                                                                                                                                                     
 ---
 
-  &copy; R Costa 2024
+  &copy; R Costa 2024                                                                                                             
+  ![](logo_new.png)
   
 
-![](logos/logo_new.png)
+
 
   
