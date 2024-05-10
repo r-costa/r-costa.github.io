@@ -92,7 +92,7 @@ PhD Thesis IN PROGRESS <br />
 -Leonardo Alexandre ID 94054, Co-supervised with Rui Henriques (INESC-ID/IST).<br />
 -Daniel Gonçalves ID 194007, Co-supervised with Rui Henriques (INESC-ID/IST) and José A. Ferreira (IPO-Porto).<br />
 -André Patrício ID 187631, Co-supervised with Rui Henriques (INESC-ID/IST).<br />
--Samuel Barbosa ID, Co-supervised with Lúcio L. Santos (IPO-Porto) and Daniel M. Gonçalves.<br />
+-Samuel Barbosa ID 202302286, Co-supervised with Lúcio L. Santos (IPO-Porto) and Daniel M. Gonçalves (UP).<br />
 -Monesh Thirugnanasambandam ID, Co-supervised with Rui Oliveira (NOVA-FCT)<br />
 
 MSc Thesis IN PROGRESS <br />
