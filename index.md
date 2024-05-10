@@ -96,10 +96,18 @@ PhD Thesis IN PROGRESS <br />
 -Monesh Thirugnanasambandam ID, Co-supervised with Rui Oliveira (NOVA-FCT)<br />
 
 MSc Thesis IN PROGRESS <br />
--André Matos ID 55358,  *Desenvolvimento de uma base dados da estrutura espacial em Biofilmes*. Co-supervised with Pedro Barahona (FCT-NOVA) and Nuno Azevedo (LEPABE-FEUP).<br />
--José Pedreira ID 61835 , *HYBpy: a Python tool for hybrid modeling of bioprocesses*. Co-supervised with Pedro Barahona (FCT-NOVA) and Rui Oliveira (FCT-NOVA).<br />
+-André Matos ID 55358,  *Desenvolvimento de uma base dados da estrutura espacial em Biofilmes*. Co-supervised with Pedro Barahona (NOVA-FCT) and Nuno Azevedo (LEPABE-FEUP).<br />
+-José Pedreira ID 61835 , *HYBpy: a Python tool for hybrid modeling of bioprocesses*. Co-supervised with Pedro Barahona (FCT-NOVA) and Rui Oliveira (NOVA-FCT).<br />
 -Marta Sousa ID 93303 , *Voice disease diagnostic via machine learning*. Co-supervised with Duarte Valério (IST).<br /> 
--Maria do Carmo Ribeiro ID 96436, *Predicting cardiomyocytes content using data-driven approaches*. Co-supervised with Duarte Valério (IST). <br />
+-Maria do Carmo Ribeiro ID 96436, *Predicting cardiomyocytes content using data-driven approaches*. Co-supervised with Duarte Valério (IST).<br />
+
+
+### Recent Teaching Activities
+
+[2024-present] – Bioprocess Engineering (Spring semester);<br />
+[2022-present] – Synthetic and Systems Biology (Spring semester);<br />
+[2021-present] – Numerical Methods Applied to Chemical and Biological Engineering (Fall semester);<br />
+[2021-present] – Systems Biology (Spring semester);
                                                                                                                                                     
 ---
 
