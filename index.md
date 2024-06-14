@@ -4,7 +4,7 @@
 **Affiliation:** [LAQV-REQUIMTE](https://laqv.requimte.pt/), DQ, [Faculty of Science and Technology](https://www.fct.unl.pt/pt-pt), NOVA University Lisbon
  
 
-**Short Bio:** Rafael Costa holds a PhD degree in Chemical and Biological Engineering. Currently, he is an Assistant Professor at NOVA-FCT, a Researcher at LAQV (Systems Biology & Engineering Lab) and Collaborator member at Center of Intelligent Systems [(CIS)](https://csi.idmec.tecnico.ulisboa.pt/), IST-UL. His research focuses on systems biology modeling and data science with application in biotechnology, (bio)processes and healthcare.
+**Short Bio:** Rafael Costa holds a PhD degree in Chemical and Biological Engineering. Currently, he is an Assistant Professor at [NOVA-FCT](https://www.fct.unl.pt/pt-pt), a Researcher at [LAQV](https://laqv.requimte.pt/) (Systems Biology & Engineering Lab) and Collaborator member at Center of Intelligent Systems [(CIS)](https://csi.idmec.tecnico.ulisboa.pt/), IST-UL. His research focuses on systems biology modeling and data science with application in biotechnology, (bio)processes and healthcare.
 
 ### Research Interests
 
@@ -16,7 +16,7 @@ with experimental groups. I also belong to a [consortium of researchers](https:/
 modelling using openly available softwares and standards. More recently, my research activities has expanded and I developed an interest in the [data science](https://www.ibm.com/topics/data-science) field, with emphasis in systems engineering techniques (such as [machine learning](https://doi.org/10.1016/j.compbiomed.2022.105443) algorithms and [data mining](https://doi.org/10.1371/journal.pone.0276253)) for (bio)chemical & biomedical data analysis and [hybrid mechanistic/ML]( https://doi.org/10.3389/fbioe.2023.1237963) methods, in order to improve outcomes and better decision-making. Moreover, I am currently involving on the regular maintenance of 
 [*Ki*MoSys](https://www.kimosys.org), a database for quantitative kinetic models, and [IPOscore](https://www.iposcore.org/), a web-based platform for assisting clinical decisions in the oncology domain.
 
-**Key-terms of research:** Systems Biology modeling, optimization, industrial biotechnology, (bio)process&systems engineering, bioinformatics, metabolism, (bio)process digitalization, computational medicine&biology, systems biotechnology, data management, Bioindustry 4.0, metabolic engineering, data analytics, bioengineering
+**Key-terms of research:** Systems Biology modeling, optimization, industrial biotechnology, (bio)process&systems engineering, bioinformatics, metabolism, (bio)process digitalization, computational medicine&biology, medical systems biology, systems biotechnology, data management, Bioindustry 4.0, metabolic engineering, data analytics, bioengineering
 
 **Main Topics**
 
