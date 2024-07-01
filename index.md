@@ -98,8 +98,8 @@ PhD Thesis IN PROGRESS <br />
 MSc Thesis IN PROGRESS <br />
 -André Matos ID 55358,  *Desenvolvimento de uma base dados da estrutura espacial em Biofilmes*. Co-supervised with Pedro Barahona (NOVA-FCT) and Nuno Azevedo (LEPABE-FEUP).<br />
 -José Pedreira ID 61835 , *HYBpy: a Python tool for hybrid modeling of bioprocesses*. Co-supervised with Pedro Barahona (FCT-NOVA) and Rui Oliveira (NOVA-FCT).<br />
--Marta Sousa ID 93303 , *Voice disease diagnostic via machine learning*. Co-supervised with Duarte Valério (IST).<br /> 
 -Maria do Carmo Ribeiro ID 96436, *Predicting cardiomyocytes content using data-driven approaches*. Co-supervised with Duarte Valério (IST).<br />
+-Henrique Anjos ID , *Prediction of structural heart disease risk in a large Portuguese cohort*. Co-supervised with Rui Henriques (INESC-ID).<br /> 
 
 
 ### Recent Teaching Activities
