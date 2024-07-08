@@ -4,7 +4,7 @@
 **Affiliation:** [LAQV-REQUIMTE](https://laqv.requimte.pt/), DQ, [Faculty of Science and Technology](https://www.fct.unl.pt/pt-pt), NOVA University Lisbon
  
 
-**Short Bio:** Rafael Costa holds a PhD degree in Chemical and Biological Engineering. Currently, he is an Assistant Professor at [NOVA-FCT](https://www.fct.unl.pt/pt-pt), a Researcher at [LAQV](https://laqv.requimte.pt/) (Systems Biology & Engineering Lab) and Collaborator member at Center of Intelligent Systems [(CIS)](https://csi.idmec.tecnico.ulisboa.pt/), IST-UL. His research focuses on systems biology modeling and data science with application in biotechnology, (bio)processes and healthcare.
+**Short Bio:** Rafael Costa holds a PhD degree in Chemical and Biological Engineering. Currently, he is an Assistant Professor at [NOVA-FCT](https://www.fct.unl.pt/pt-pt), a Researcher at [LAQV](https://laqv.requimte.pt/) (Systems Biology & Engineering Lab) and Collaborator member at Center of Intelligent Systems [(CIS)](https://csi.idmec.tecnico.ulisboa.pt/), IST-UL. His research focuses on systems biology modeling and data science with application in biotechnology, (bio)processes and medicine.
 
 ### Research Interests
 
