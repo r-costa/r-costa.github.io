@@ -99,7 +99,9 @@ MSc Thesis IN PROGRESS <br />
 -André Matos ID 55358,  *Desenvolvimento de uma base dados da estrutura espacial em Biofilmes*. Co-supervised with Pedro Barahona (NOVA-FCT) and Nuno Azevedo (LEPABE-FEUP).<br />
 -José Pedreira ID 61835 , *HYBpy: a Python tool for hybrid modeling of bioprocesses*. Co-supervised with Pedro Barahona (FCT-NOVA) and Rui Oliveira (NOVA-FCT).<br />
 -Maria do Carmo Ribeiro ID 96436, *Predicting cardiomyocytes content using data-driven approaches*. Co-supervised with Duarte Valério (IST).<br />
--Henrique Anjos ID , *Prediction of structural heart disease risk*. Co-supervised with Rui Henriques (INESC-ID).<br /> 
+-Henrique Anjos ID , *Prediction of structural heart disease risk*. Co-supervised with Rui Henriques (INESC-ID).<br />
+-Nuno Bragança ID 68831, "Knowledge transfer for biopharmaceutical production: data analysis of different process development campaigns", Co-supervised with Rui Oliveira (NOVA-FCT)<br />
+-Ekaterina Moskovkina ID 68824, Co-supervised wth Rui Oliveira (NOVA-FCT)<br />
 
 
 ### Recent Teaching Activities
