@@ -85,6 +85,8 @@ We are working on computational solutions to address biotechnological, (bio)chem
 
 ► *[TriSig](https://github.com/JupitersMight/TriSig)*, a method designed to evaluate the statistical significance of patterns in tensor data. To demonstrate the properties of *TriSig*, a industrial [penicillin batches dataset](https://www.sciencedirect.com/science/article/pii/S0098135418305106) and a [metabolomics dataset](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0167309) from urinary samples analyzed by NMR spectroscop are used.
 
+► *[HYBpy](https://www.hybpy.com/)*, a web-based framework for hybrid modeling of bioprocesses and biological systems.
+
 
 ### Group Members
 
