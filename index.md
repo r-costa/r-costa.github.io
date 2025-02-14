@@ -40,7 +40,7 @@ We are working on computational solutions to address biotechnological, (bio)chem
 
 > - [P4] J. Pinto, J. Ramos, R. S. Costa & R. Oliveira. *Hybrid Deep Modeling of a GS115 (Mut+) Pichia pastoris Culture with State–Space Reduction*. Fermentation, 9(7), 643, (2023), doi: [10.3390/fermentation9070643](https://doi.org/10.3390/fermentation9070643)
 
-> - [P5] Patrício, A., Costa, R.S. & Henriques, R. "Pattern‐centric transformation of omics data grounded on discriminative gene associations aids predictive tasks in TCGA while ensuring interpretability". Biotechnology and Bionegineering, 1-12, (2024), doi: [10.1002/bit.28758](https://doi.org/10.1002/bit.28758)
+> - [P5] Patrício, A., Costa, R.S. & Henriques, R. *Pattern‐centric transformation of omics data grounded on discriminative gene associations aids predictive tasks in TCGA while ensuring interpretability*. Biotechnology and Bionegineering, 1-12, (2024), doi: [10.1002/bit.28758](https://doi.org/10.1002/bit.28758)
 
 > - [P6] Mochao, H., Barahona, P., Costa, R.S. *KiMoSys 2.0: an upgraded database for submitting, storing and accessing experimental data for kinetic modeling*. Database-The journal of biological database & curation, baaa093, (2020), doi: [10.1093/database/baaa093](https://doi.org/10.1093/database/baaa093)
 
