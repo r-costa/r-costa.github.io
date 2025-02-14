@@ -40,7 +40,7 @@ We are working on computational solutions to address biotechnological, (bio)chem
 
 > - [P4] J. Pinto, J. Ramos, R. S. Costa & R. Oliveira. *Hybrid Deep Modeling of a GS115 (Mut+) Pichia pastoris Culture with State–Space Reduction*. Fermentation, 9(7), 643, (2023), doi: [10.3390/fermentation9070643](https://doi.org/10.3390/fermentation9070643)
 
-> - [P5] Alexandre, L., Costa, R.S., Santos, L. L., Henriques, R. *Mining pre-surgical patterns able to discriminate post-surgical outcomes in the oncological domain*. IEEE Journal of Biomedical and Health Informatics, 25(7), (2021), doi: [10.1109/JBHI.2021.3064786](https://doi.org/10.1109/JBHI.2021.3064786)
+> - [P5] Patrício, A., Costa, R.S. & Henriques, R. "Pattern‐centric transformation of omics data grounded on discriminative gene associations aids predictive tasks in TCGA while ensuring interpretability". Biotechnology and Bionegineering, 1-12, (2024), doi: [10.1002/bit.28758](https://doi.org/10.1002/bit.28758)
 
 > - [P6] Mochao, H., Barahona, P., Costa, R.S. *KiMoSys 2.0: an upgraded database for submitting, storing and accessing experimental data for kinetic modeling*. Database-The journal of biological database & curation, baaa093, (2020), doi: [10.1093/database/baaa093](https://doi.org/10.1093/database/baaa093)
 
@@ -98,8 +98,6 @@ PhD Thesis IN PROGRESS <br />
 -Monesh Thirugnanasambandam ID, Co-supervised with Rui Oliveira (NOVA-FCT)<br />
 
 MSc Thesis IN PROGRESS <br />
--André Matos ID 55358,  *Desenvolvimento de uma base dados da estrutura espacial em Biofilmes*. Co-supervised with Pedro Barahona (NOVA-FCT) and Nuno Azevedo (LEPABE-FEUP).<br />
--José Pedreira ID 61835 , *HYBpy: a Python tool for hybrid modeling of bioprocesses*. Co-supervised with Pedro Barahona (FCT-NOVA) and Rui Oliveira (NOVA-FCT).<br />
 -Maria do Carmo Ribeiro ID 96436, *Predicting cardiomyocytes content using data-driven approaches*. Co-supervised with Duarte Valério (IST).<br />
 -Henrique Anjos ID , *Prediction of structural heart disease risk*. Co-supervised with Rui Henriques (INESC-ID).<br />
 -Nuno Bragança ID 68831, "Knowledge transfer for biopharmaceutical production: data analysis of different process development campaigns", Co-supervised with Rui Oliveira (NOVA-FCT)<br />
@@ -115,7 +113,7 @@ MSc Thesis IN PROGRESS <br />
                                                                                                                                                     
 ---
 
-  &copy; R Costa 2024                                                                                                             
+  &copy; R Costa 2025                                                                                                             
   ![https://www.fct.unl.pt/](logo_new.png)
   
 
