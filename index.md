@@ -99,13 +99,14 @@ PhD Thesis IN PROGRESS <br />
 
 MSc Thesis IN PROGRESS <br />
 -Maria do Carmo Ribeiro ID 96436, *Predicting cardiomyocytes content using data-driven approaches*. Co-supervised with Duarte Valério (IST).<br />
--Henrique Anjos ID , *Prediction of structural heart disease risk*. Co-supervised with Rui Henriques (INESC-ID).<br />
+-Henrique Anjos ID , *Prediction of Atrial Fibrillation and Associated Risks at Primary Care Level using Longitudinal Learning Stances*. Co-supervised with Rui Henriques (INESC-ID).<br />
 -Nuno Bragança ID 68831, "Knowledge transfer for biopharmaceutical production: data analysis of different process development campaigns", Co-supervised with Rui Oliveira (NOVA-FCT)<br />
--Ekaterina Moskovkina ID 68824, Co-supervised wth Rui Oliveira (NOVA-FCT)<br />
+-Ekaterina Moskovkina ID 68824, *A Python tool for deep hybrid modeling of biological systems under the SBML standard*. Co-supervised wth Rui Oliveira (NOVA-FCT)<br />
 
 
 ### Recent Teaching Activities
 
+[2025-present] – Process Systems Engineering (Spring semester), [Master in Chemical and Biological Engineering](https://www.fct.unl.pt/en/education/course/master-science-chemical-and-biological-engineering);<br />
 [2024-present] – Bioprocess Engineering (Spring semester), [Master in Chemical and Biological Engineering](https://www.fct.unl.pt/en/education/course/master-science-chemical-and-biological-engineering);<br />
 [2022-present] – Synthetic and Systems Biology (Spring semester), [Master in Biotechnology](https://www.fct.unl.pt/en/education/course/master-biotechnology);<br />
 [2021-present] – Numerical Methods Applied to Chemical and Biological Engineering (Fall semester), [Master in Chemical and Biological Engineering](https://www.fct.unl.pt/en/education/course/master-science-chemical-and-biological-engineering);<br />
