@@ -108,7 +108,7 @@ MSc Thesis IN PROGRESS <br />
 
 [2025-present] – Process Systems Engineering (Spring semester), [Master in Chemical and Biological Engineering](https://www.fct.unl.pt/en/education/course/masters-chemical-and-biological-engineering);<br />
 [2024-present] – Bioprocess Engineering (Spring semester), [Master in Chemical and Biological Engineering](https://www.fct.unl.pt/en/education/course/masters-chemical-and-biological-engineering);<br />
-[2022-present] – Synthetic and Systems Biology (Spring semester), [Master in Biotechnology](https://www.fct.unl.pt/en/education/course/master-biotechnology);<br />
+[2022-present] – Synthetic and Systems Biology (Spring semester), [Master in Biotechnology](https://www.fct.unl.pt/en/education/course/masters-biotechnology);<br />
 [2021-present] – Numerical Methods Applied to Chemical and Biological Engineering (Fall semester), [Master in Chemical and Biological Engineering](https://www.fct.unl.pt/en/education/course/masters-chemical-and-biological-engineering);<br />
 [2021-present] – Systems Biology (Spring semester), [Master in Computational Biology and Bioinformatics](http://masters.unl.pt/computationalbiology/);
                                                                                                                                                     
