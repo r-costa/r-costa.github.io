@@ -58,9 +58,11 @@ We are working on computational solutions to address biotechnological, (bio)chem
 
 ### Representative Research Projects
 
+• FRAIL – Intelligent decision support system for FRAILty assessment in the elderly population, (FCT project). Role: PI.
+
 •	[BioLaMer](https://cordis.europa.eu/project/id/101099487) – *Proof of principle fly larvae biorefinery for biopolymer plastic production* (HORIZON-EIC), Coordinator: Sibu Padmanabhan. (ongoing)
 
-•	[IPOscore](https://iposcore.wixsite.com/project) – *Predicting the risk of complications of surgical treatment and define prognosis of cancer patients through clinical and biopathological data integration*, Data Science and Artificial Intelligence in Public Administration project grant, (FCT). Role: Principal Investigator.
+•	[IPOscore](https://iposcore.wixsite.com/project) – *Predicting the risk of complications of surgical treatment and define prognosis of cancer patients through clinical and biopathological data integration*, Data Science and Artificial Intelligence in Public Administration project grant, (FCT). Role: PI.
 
 •	[PROMICON](https://cordis.europa.eu/project/id/101000733) – *Harnessing the power of Nature through productive microbial consortia in biotechnology – measure, model, master* (H2020-FNR-12-2020), Coordinator: Jens Kromer. (ongoing)  
 
