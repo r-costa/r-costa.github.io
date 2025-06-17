@@ -101,9 +101,10 @@ PhD Thesis IN PROGRESS <br />
 
 MSc Thesis IN PROGRESS <br />
 -Maria do Carmo Ribeiro ID 96436, *Predicting cardiomyocytes content using data-driven approaches*. Co-supervised with Duarte Valério (IST).<br />
--Henrique Anjos ID , *Prediction of Atrial Fibrillation and Associated Risks at Primary Care Level using Longitudinal Learning Stances*. Co-supervised with Rui Henriques (INESC-ID).<br />
+-Henrique Anjos ID 199081, *Prediction of Atrial Fibrillation and Associated Risks at Primary Care Level using Longitudinal Learning Stances*. Co-supervised with Rui Henriques (INESC-ID).<br />
 -Nuno Bragança ID 68831, "Knowledge transfer for biopharmaceutical production: data analysis of different process development campaigns", Co-supervised with Rui Oliveira (NOVA-FCT)<br />
 -Ekaterina Moskovkina ID 68824, *A Python tool for deep hybrid modeling of biological systems under the SBML standard*. Co-supervised wth Rui Oliveira (NOVA-FCT)<br />
+-Tatiana dos Santos Dionísio ID (NOVA-FCT)<br />
 
 
 ### Recent Teaching Activities
