@@ -104,7 +104,7 @@ MSc Thesis IN PROGRESS <br />
 -Henrique Anjos ID 199081, *Prediction of Atrial Fibrillation and Associated Risks at Primary Care Level using Longitudinal Learning Stances*. Co-supervised with Rui Henriques (INESC-ID).<br />
 -Nuno Bragança ID 68831, "Knowledge transfer for biopharmaceutical production: data analysis of different process development campaigns", Co-supervised with Rui Oliveira (NOVA-FCT)<br />
 -Ekaterina Moskovkina ID 68824, *A Python tool for deep hybrid modeling of biological systems under the SBML standard*. Co-supervised wth Rui Oliveira (NOVA-FCT)<br />
--Tatiana dos Santos Dionísio ID (NOVA-FCT)<br />
+-Tatiana dos Santos Dionísio ID, "Implementação de cálculos quantitativos no software OpenLab CDS: reforço da integridade e rastreabilidade de dados em análises HPLC" Co-supervised wth Sofia Marques (Laboratórios Atral)<br />
 
 
 ### Recent Teaching Activities
