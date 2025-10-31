@@ -1,10 +1,10 @@
 
 # R Costa
 
-**Affiliation:** [LAQV-REQUIMTE](https://laqv.requimte.pt/), DQ, [Faculty of Science and Technology](https://www.fct.unl.pt/pt-pt), NOVA University Lisbon
+**Affiliation:** [UCIBIO](https://www.ucibio.pt/) and [i4HB](https://www.i4hb-la.pt/web/), DQ, [Faculty of Science and Technology](https://www.fct.unl.pt/pt-pt), NOVA University Lisbon
  
 
-**Short Bio:** Rafael Costa holds a PhD degree in Chemical and Biological Engineering. Currently, he is an Assistant Professor at [NOVA-FCT](https://www.fct.unl.pt/pt-pt), a Researcher at [LAQV](https://laqv.requimte.pt/) (Systems Biology & Engineering Lab) and Collaborator member at Center of Intelligent Systems [(CIS)](https://csi.idmec.tecnico.ulisboa.pt/), IST-UL. His research focuses on systems biology modeling and data science with application in biotechnology, (bio)processes and medicine.
+**Short Bio:** Rafael Costa holds a PhD degree in Chemical and Biological Engineering. Currently, he is an Assistant Professor at [NOVA-FCT](https://www.fct.unl.pt/pt-pt), a Researcher at [UCIBIO](https://www.ucibio.pt/) (Systems BioEngineering Lab) and Collaborator member at Center of Intelligent Systems [(CIS)](https://csi.idmec.tecnico.ulisboa.pt/), IST-UL. His research focuses on systems biology modeling and data science with application in biotechnology, (bio)processes and medicine.
 
 ### Research Interests
 
@@ -100,7 +100,6 @@ PhD Thesis IN PROGRESS <br />
 -Monesh Thirugnanasambandam ID, Co-supervised with Rui Oliveira (NOVA-FCT)<br />
 
 MSc Thesis IN PROGRESS <br />
--Maria do Carmo Ribeiro ID 96436, *Predicting cardiomyocytes content using data-driven approaches*. Co-supervised with Duarte Valério (IST).<br />
 -Henrique Anjos ID 199081, *Prediction of Atrial Fibrillation and Associated Risks at Primary Care Level using Longitudinal Learning Stances*. Co-supervised with Rui Henriques (INESC-ID).<br />
 -Nuno Bragança ID 68831, "Knowledge transfer for biopharmaceutical production: data analysis of different process development campaigns", Co-supervised with Rui Oliveira (NOVA-FCT)<br />
 -Ekaterina Moskovkina ID 68824, *A Python tool for deep hybrid modeling of biological systems under the SBML standard*. Co-supervised wth Rui Oliveira (NOVA-FCT)<br />
@@ -118,7 +117,8 @@ MSc Thesis IN PROGRESS <br />
 ---
 
   &copy; R Costa 2025                                                                                                             
-  ![https://www.fct.unl.pt/](logo_new.png)
+  ![https://https://ucibio.pt/](ucibio_.png)
+  ![https://https://www.i4hb-la.pt/web/](i4HB_.png)
   
 
 
