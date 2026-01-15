@@ -4,7 +4,7 @@
 **Affiliation:** [UCIBIO](https://www.ucibio.pt/) and [i4HB](https://www.i4hb-la.pt/web/), DQ, [Faculty of Science and Technology](https://www.fct.unl.pt/pt-pt), NOVA University Lisbon
  
 
-**Short Bio:** Rafael Costa holds a PhD degree in Chemical and Biological Engineering. Currently, he is an Assistant Professor at [NOVA-FCT](https://www.fct.unl.pt/pt-pt), a Researcher at [UCIBIO](https://www.ucibio.pt/) (Systems BioEngineering Lab) and Collaborator member at Center of Intelligent Systems [(CIS)](https://csi.idmec.tecnico.ulisboa.pt/), IST-UL. His research focuses on systems biology modeling and data science with application in biotechnology, (bio)processes and medicine.
+**Short Bio:** Rafael Costa holds a PhD degree in Chemical and Biological Engineering. Currently, he is an Assistant Professor at [NOVA-FCT](https://www.fct.unl.pt/pt-pt), a Researcher at [UCIBIO](https://www.ucibio.pt/) ([Systems BioEngineering Lab](https://ucibio.pt/research-groups/lab/systems-bioengineering)) and Collaborator member at Center of Intelligent Systems ([CIS](https://csi.idmec.tecnico.ulisboa.pt/)), IST-UL. His research focuses on systems biology modeling and data science with application in biotechnology, (bio)processes and medicine.
 
 ### Research Interests
 
