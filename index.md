@@ -58,7 +58,7 @@ We are working on computational solutions to address biotechnological, (bio)chem
 
 ### Representative Research Projects
 
-• FRAIL – Intelligent decision support system for FRAILty assessment in the elderly population, (FCT project). Role: PI.
+• [FRAIL](https://github.com/r-costa/FRAIL_NOVA_ID) – Intelligent decision support system for FRAILty assessment in the elderly population, (FCT project). Role: PI.
 
 •	[BioLaMer](https://cordis.europa.eu/project/id/101099487) – *Proof of principle fly larvae biorefinery for biopolymer plastic production* (HORIZON-EIC), Coordinator: Sibu Padmanabhan. (ongoing)
 
