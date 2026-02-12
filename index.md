@@ -116,7 +116,7 @@ MSc Thesis IN PROGRESS <br />
                                                                                                                                                     
 ---
 
-  &copy; R Costa 2025                                                                                                             
+  &copy; R Costa 2026                                                                                                             
   ![https://https://www.i4hb-la.pt/web/](logo_NOVA.png)
   ![https://https://ucibio.pt/](ucibio_.png)
   ![https://https://www.i4hb-la.pt/web/](i4HB_.png)
