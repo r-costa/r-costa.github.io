@@ -89,6 +89,8 @@ We are working on computational solutions to address biotechnological, (bio)chem
 
 ► *[HYBpy](https://www.hybpy.com/)*, a web-based framework for hybrid modeling of bioprocesses and biological systems.
 
+► *[AF-DETECT](https://github.com/rique-git/AF-DETECT)*, a decision-support tool for Atrial Fibrillation-related outcomes.
+
 
 ### Group Members
 
