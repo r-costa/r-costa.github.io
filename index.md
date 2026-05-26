@@ -58,7 +58,7 @@ We are working on computational solutions to address biotechnological, (bio)chem
 
 ### Representative Research Projects
 
-• [FRAIL](https://github.com/tiagonob80/FRAIL-public) – Intelligent decision support system for FRAILty assessment in the elderly population, (FCT project). Role: PI.
+• [FRAIL](https://sciproj.ptcris.pt/176786PRJ) – Intelligent decision support system for FRAILty assessment in the elderly population, (FCT project). Role: PI.
 
 •	[BioLaMer](https://cordis.europa.eu/project/id/101099487) – *Proof of principle fly larvae biorefinery for biopolymer plastic production* (HORIZON-EIC), Coordinator: Sibu Padmanabhan. (ongoing)
 
@@ -91,6 +91,7 @@ We are working on computational solutions to address biotechnological, (bio)chem
 
 ► *[AF-DETECT](https://github.com/rique-git/AF-DETECT)*, a decision-support tool for Atrial Fibrillation-related outcomes.
 
+► *[FRAIL-AI](https://github.com/tiagonob80/FRAIL-public)*, a decision-support tool for frailty-related outcomes prediction.
 
 ### Group Members
 
