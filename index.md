@@ -91,7 +91,7 @@ We are working on computational solutions to address biotechnological, (bio)chem
 
 ► *[AF-DETECT](https://github.com/rique-git/AF-DETECT)*, a decision-support tool for Atrial Fibrillation-related outcomes.
 
-► *[FRAIL-AI](https://github.com/tiagonob80/FRAIL-public)*, a decision-support tool for frailty-related outcomes prediction.
+► *[FR(AI)L](https://github.com/tiagonob80/FRAIL-public)*, a decision-support tool for frailty-related outcomes prediction.
 
 ### Group Members
 
