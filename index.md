@@ -77,7 +77,7 @@ We are working on computational solutions to address biotechnological, (bio)chem
 
 ► *[DI2 tool](https://github.com/JupitersMight/DI2)*, a python package that uses non-parametric tests to find the best fitting distribution for a given variable and discretize it accordingly. To illustrate the DI2 tool properties two case studies were analyzed including a [yeast experimental dataset](https://archive.ics.uci.edu/dataset/110/yeast).
 
-► *KiMoSys* database. An experimental data repository for Kinetic Models of biological SYStems. Available at [kimosys.org](http://www.kimosys.org) 
+► *KiMoSys* database. An experimental data repository for Kinetic Models of biological SYStems. Available at [kimosys.org](https://kimosys.org/) 
 
 ► *ObjComparison*. Matlab implementation for investigation the effect of cellular objective function and constraints in flux balance constraint-based models. Implementation of all objective functions and constraints can be adapted to test different metabolic systems. Available at [http://bit.ly/17QACEW](http://bit.ly/17QACEW)
 
