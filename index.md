@@ -6,6 +6,8 @@
 
 **Short Bio:** Rafael Costa holds a PhD degree in Chemical and Biological Engineering. Currently, he is an Assistant Professor at [NOVA-FCT](https://www.fct.unl.pt/pt-pt), a Researcher at [UCIBIO](https://www.ucibio.pt/) ([Systems BioEngineering Lab](https://ucibio.pt/research-groups/lab/systems-bioengineering)) and Collaborator member at Center of Intelligent Systems ([CIS](https://csi.idmec.tecnico.ulisboa.pt/)), IST-UL. His research focuses on systems biology modeling and data science with application in biotechnology, (bio)processes and medicine.
 
+--> Guest-editor of [Bioresources and Bioprocessing](https://link.springer.com/journal/40643) [([Open for submissions])](https://link.springer.com/collections/hcjgfbieae) <--
+
 ### Research Interests
 
 The main topic of my PhD was in metabolic modeling, control and optimization of biological systems — a focus that continues to drive my research. Since my 
@@ -28,7 +30,7 @@ We are working on computational solutions to address biotechnological, (bio)chem
 
 ☛ Computational tools and methods (machine learning and data mining) to analyse big-datasets coming from diverse sources (e.g., (bio)chemical data [P2], environmental [P7] and clinical/biomedical data [P5]).
 
-**Interested in applying computational models to biotechnological and biomedical challenges? <a href="mailto:rs.costa@fct.unl.pt">Please Contact me</a>**
+**Interested in applying computational approaches to biotechnological and biomedical challenges? <a href="mailto:rs.costa@fct.unl.pt">Please Contact me</a>**
 
 ### Selected Publications
 
