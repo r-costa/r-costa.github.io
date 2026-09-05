@@ -98,16 +98,15 @@ We are working on computational solutions to address biotechnological, (bio)chem
 ### Group Members
 
 PhD Thesis IN PROGRESS <br />
--Leonardo Alexandre ID 94054, Co-supervised with Rui Henriques (INESC-ID/IST).<br />
 -Daniel Gonçalves ID 194007, Co-supervised with Rui Henriques (INESC-ID/IST) and José A. Ferreira (IPO-Porto).<br />
 -Samuel Barbosa ID 202302286, Co-supervised with Lúcio L. Santos (IPO-Porto) and Daniel M. Gonçalves (UP).<br />
 -Monesh Thirugnanasambandam ID, Co-supervised with Rui Oliveira (NOVA-FCT)<br />
 
 MSc Thesis IN PROGRESS <br />
--Nuno Bragança ID 68831, "Knowledge transfer for biopharmaceutical production: data analysis of different process development campaigns", Co-supervised with Rui Oliveira (NOVA-FCT)<br />
--Ekaterina Moskovkina ID 68824, *A Python tool for deep hybrid modeling of biological systems under the SBML standard*. Co-supervised wth Rui Oliveira (NOVA-FCT)<br />
--Maria Alcobia Madeira ID 70541, "Integration of Regulatory-Compliant Statistical Evaluation in Analytical Method Development and Validation" Co-supervised wth Fátima Morais Portugal (Hovione FarmaCiência SA)<br />
-
+-Maria Alcobia Madeira ID 70541, *Integration of Regulatory-Compliant Statistical Evaluation in Analytical Method Development and Validation*. Co-supervised wth Fátima Morais Portugal (Hovione FarmaCiência SA)<br />
+-Andre Coelho ID 73451, *Improvement of HYBpy framework for hybrid modeling*. (NOVA-FCT)<br />
+-Vicente Silva ID 73655, *Prediction of Algae-Derived Biodiesel Production via data science techniques*. (NOVA-FCT)<br />
+-Júlio Cunha ID 73151, *Modeling and Prediction of Sulfur Compound Dynamics in Industrial Wastewater Systems*. (NOVA-FCT)<br />
 
 ### Recent Teaching Activities
 
