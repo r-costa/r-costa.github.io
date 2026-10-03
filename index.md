@@ -111,6 +111,7 @@ MSc Thesis IN PROGRESS <br />
 
 ### Recent Teaching Activities
 
+[2026-present] – Machine Learning in Chemical and Biological Engineering (Fall semester, Optional) [Master in Chemical and Biological Engineering](https://guia.unl.pt/pt/2026/fct/program/1062/course/13739);<br />
 [2025-present] – Process Systems Engineering (Spring semester), [Master in Chemical and Biological Engineering](https://www.fct.unl.pt/en/education/course/masters-chemical-and-biological-engineering);<br />
 [2024-present] – Bioprocess Engineering (Spring semester), [Master in Chemical and Biological Engineering](https://www.fct.unl.pt/en/education/course/masters-chemical-and-biological-engineering);<br />
 [2022-present] – Synthetic and Systems Biology (Spring semester), [Master in Biotechnology](https://www.fct.unl.pt/en/education/course/masters-biotechnology);<br />
