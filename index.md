@@ -107,6 +107,7 @@ MSc Thesis IN PROGRESS <br />
 -Andre Coelho ID 73451, *Improvement of HYBpy framework for hybrid modeling*. (NOVA-FCT)<br />
 -Vicente Silva ID 73655, *Prediction of Algae-Derived Biodiesel Production via data science techniques*. (NOVA-FCT)<br />
 -Júlio Cunha ID 73151, *Modeling and Prediction of Sulfur Compound Dynamics in Industrial Wastewater Systems*. (NOVA-FCT)<br />
+-João Maria de Sousa ID , *Dinâmica fracionária em epidemiologia*, Co-supervised with Duarte Valério (IST).<br />
 
 ### Recent Teaching Activities
 
